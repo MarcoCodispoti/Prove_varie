@@ -12,6 +12,6 @@ Le classi aggiunte hanno un colore verde
 Le classi modificate sono scritte in blu prima che faccio il commit
 Una volta fatto il commit torneranno ad essere nere
 
-Quando faccio il commit, per salvare il progetto anche nella repository su GitHub devo fare: 
+Quando faccio il commit, per salvare il progetto anche nella repository su GitHub devo fare:
 
  */

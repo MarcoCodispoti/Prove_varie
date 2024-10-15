@@ -33,6 +33,6 @@ public class Main {
         //javaFX.lancia();
 
         // Prova Test
-    }    C:\Users\marco\IdeaProjects\Prove_Varie
+    }  
 
 }

@@ -13,5 +13,7 @@ Le classi modificate sono scritte in blu prima che faccio il commit
 Una volta fatto il commit torneranno ad essere nere
 
 Quando faccio il commit, per salvare il progetto anche nella repository su GitHub devo fare:
+la prima volta: Remote -> add -> Nome (nome del controllo remoto) , Location (url della repository su gitHub dove si vuole salvare il progetto)
+la seconda volta: Remote -> push ->
 
  */

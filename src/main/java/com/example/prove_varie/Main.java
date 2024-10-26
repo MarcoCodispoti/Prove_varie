@@ -33,7 +33,7 @@ public class Main {
         javaFX.lancia();
 
         // Prova Test
-
+        // lanciare i test dalla classe testClassTest
     }
 
 }

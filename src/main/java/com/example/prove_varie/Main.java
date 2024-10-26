@@ -30,9 +30,11 @@ public class Main {
          */
 
         // Prova JavaFX
-        //javaFX.lancia();
+        javaFX.lancia();
 
         // Prova Test
+
     }
 
 }
+

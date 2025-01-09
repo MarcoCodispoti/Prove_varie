@@ -23,6 +23,7 @@ public class javaFX extends Application {
         stage.setScene(scene);
         setScene(stage);
         stage.show();
+
     }
 
     private static void setScene(Stage stage) {
